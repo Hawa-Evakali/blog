@@ -28,7 +28,7 @@ To get the code..
 
 1. Cloning the repository:
   bash
-  
+  https://github.com/Hawa-Evakali/blog.git
 
 2. Move to the folder and install requirements
   bash
