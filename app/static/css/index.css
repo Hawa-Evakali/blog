@@ -1,0 +1,16 @@
+body {
+    background-color: rgb(160, 19, 113);
+    box-sizing: border-box;
+    padding-bottom: 1%;
+    position: relative;
+    top: 0;
+    bottom: 0;
+}
+
+.panel-heading {
+    background-color: rgb(192, 48, 197);
+}
+
+.navbar {
+    background-color: #2a666b;
+}
