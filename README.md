@@ -10,6 +10,8 @@ Blogs
 This is a flask application that allows users to sign in into the application and create blogs.
 
 ## Prerequisites
+To work with BLOGS App you need to have some few prerequisites.
+
 
 ## Technologies Used
 
