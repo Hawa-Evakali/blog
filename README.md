@@ -60,11 +60,6 @@ Open the application on your browser `127.0.0.1:5000`.
 There were no bugs. If found any please contact 
 [ailabeyqute@gmail.com]
 
-
-
-
-
-
 ## License
 
 
