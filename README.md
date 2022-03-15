@@ -11,9 +11,9 @@ This is a flask application that allows users to sign in into the application an
 
 ## Prerequisites
 To work with BLOGS App you need to have some few prerequisites.
-Python3
-pip
-Flask
+* Python3
+* pip
+* Flask
 Code/text editor
 Terminal
 ## Technologies Used
