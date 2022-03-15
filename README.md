@@ -14,8 +14,8 @@ To work with BLOGS App you need to have some few prerequisites.
 * Python3
 * pip
 * Flask
-Code/text editor
-Terminal
+* Code/text editor
+* Terminal
 ## Technologies Used
 
 * Flask
