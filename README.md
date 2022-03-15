@@ -9,6 +9,8 @@ Blogs
 
 This is a flask application that allows users to sign in into the application and create blogs.
 
+## Prerequisites
+
 ## Technologies Used
 
 * Flask
